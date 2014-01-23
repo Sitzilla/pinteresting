@@ -2,11 +2,18 @@
 
 
 $font-family-sans-serif: 'Loto';
-$body-bg:				#1abc9c;
-$navbar-inverse-bg: #3498db;
-$navbar-inverse-link-color: white;
-$brand-primary: orange;
-$jumbotron-bg: #bdc3c7;
+
+$body-bg: #bdc3c7;
+
+$navbar-default-bg: #2c3e50;
+$navbar-default-link-color: #e74c3c;
+$navbar-default-link-hover-color: blue;
+
+
+
+$brand-primary: black;
+$jumbotron-bg: #2c3e50;
+$jumbotron-heading-color: #e74c3c;
 
 @import 'bootstrap';
 
