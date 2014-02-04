@@ -11,7 +11,7 @@ $navbar-default-link-hover-color: blue;
 
 
 
-$brand-primary: black;
+$brand-primary: #e74c3c;
 $jumbotron-bg: #2c3e50;
 $jumbotron-heading-color: #e74c3c;
 
@@ -19,4 +19,8 @@ $jumbotron-heading-color: #e74c3c;
 
 .center {
 	text-align: center;
+}
+
+p {
+	color: yellow
 }
